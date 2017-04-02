@@ -1,5 +1,5 @@
 	
-	var erc20contract_address = "0x8e22892c308812f9bcdf67cf34a9e94227eb3ce9";
+	var erc20contract_address = "0x40D3768b93E5939Ff4e39FF6457E8Ef51bd9f963";
 	
 	var option_etherscan_api = 'https://ropsten.etherscan.io'; //change to https://api.etherscan.io for mainnet
 	var option_registration_enabled = true;
